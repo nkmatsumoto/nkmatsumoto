@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Nicholas Matsumoto</h1>
 - 🔭 I’m currently working on [Form - A calisthenics app](https://github.com/nkmatsumoto/form_calisthenics_app)
 
