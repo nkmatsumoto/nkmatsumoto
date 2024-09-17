@@ -1,13 +1,13 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-2.png)
 
 <h1 align="center">Hi 👋, I'm Nick </h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://github.com/nkmatsumoto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/nkmatsumoto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/nkmatsumoto" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h4 align="left">I’m a full-stack developer with over 10 years of IT infrastructure experience and a passion for building scalable applications. After several years teaching in Japan, I transitioned into software development and completed the Le Wagon bootcamp in Tokyo. I’m now focused on developing projects that combine my love for technology, fitness, and entrepreneurship—like my goal of creating a calisthenics training app.
-
-Feel free to check out my projects and get in touch!</h4>
+<p align="left">I’m a full-stack developer with over 10 years of IT infrastructure experience and a passion for building scalable applications. After several years teaching in Japan, I transitioned into software development and completed the Le Wagon bootcamp in Tokyo. I’m now focused on developing projects that combine my love for technology, fitness, and entrepreneurship—like my goal of creating a calisthenics training app.
+<br><br>
+Feel free to check out my projects and get in touch!</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
